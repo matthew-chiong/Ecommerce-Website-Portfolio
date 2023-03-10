@@ -90,7 +90,7 @@ a {
   flex-direction: column;
   position: fixed;
   row-gap: 33px;
-  font-weight: bold;
+  font-weight: 600;
   font-size: 0.9rem;
   top: 0;
   left: 0;
@@ -397,7 +397,7 @@ a {
     flex-direction: row;
     position: initial;
     column-gap: 30px;
-    font-weight: initial;
+    font-weight: 600;
     font-size: 0.85rem;
     padding: 0;
     width: initial;
