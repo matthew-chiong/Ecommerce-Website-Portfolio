@@ -351,6 +351,7 @@ a {
   height: 16px;
   align-self: center;
   margin: 0;
+  cursor: pointer;
 }
 .checkout {
   display: block;
@@ -363,6 +364,7 @@ a {
   color: white;
   font-size: 1rem;
   font-weight: bold;
+  cursor: pointer;
 }
 .empty {
   display: flex;
